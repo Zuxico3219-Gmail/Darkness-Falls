@@ -11,5 +11,5 @@
  * DeokJae being happy without spider
 #### 시작 직업 모드(HappyJobDF)
  * [Download]
- * 다크니스폴 시작 아이템에 직업 책 1장 -> 2장으로 변경
- * DF startpack gives 2 job paper from 1 job papaer
+ * 직업 책 2장으로 게임을 시작합니다.
+ * Start with 2 job papaer (from 1 job papaer)
