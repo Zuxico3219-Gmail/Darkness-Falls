@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <HappyBang>
+    <!-- v3.6 직업종이 2장 주게 변경 -->
+<set xpath="/items/
+            item[       @name=      'startingItem']/
+            property[   @class=     'Action0']/
+            property[   @name=      'Create_item_count']/
+            @value"     >1,1,1,1,2</set>
+
+    </HappyBang>
