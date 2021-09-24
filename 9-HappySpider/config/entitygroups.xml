@@ -1,0 +1,31 @@
+    <happybang>
+
+    <!-- Remove Spider -->
+    <!-- 거미 제거 -->
+<!--
+    <set xpath="/entitygroups/entitygroup/entity[starts-with(@name, 'animalspider')]/@prob">0.0</set>
+-->
+
+<remove xpath="/entitygroups/
+                entitygroup/
+                entity[starts-with(
+                @name,
+                'animalSpider')]" />
+
+<!--
+<remove xpath="/entitygroups/entitygroup[@name='AnimalsForest']/entity[@name='animalSpider']" />
+<remove xpath="/entitygroups/entitygroup[@name='EnemyAnimalsForest']/entity[@name='animalSpider']" />
+<remove xpath="/entitygroups/entitygroup[@name='AbandonedHouseGroupGS1']/entity[@name='animalSpider']" />
+<remove xpath="/entitygroups/entitygroup[@name='AbandonedHouseGroupGS25']/entity[@name='animalSpider']" />
+<remove xpath="/entitygroups/entitygroup[@name='AbandonedHouseGroupGS25']/entity[@name='animalSpider02']" />
+<remove xpath="/entitygroups/entitygroup[@name='AbandonedHouseGroupGS50']/entity[@name='animalSpider']" />
+<remove xpath="/entitygroups/entitygroup[@name='AbandonedHouseGroupGS50']/entity[@name='animalSpider02']" />
+<remove xpath="/entitygroups/entitygroup[@name='AbandonedHouseGroupGS100']/entity[@name='animalSpider']" />
+<remove xpath="/entitygroups/entitygroup[@name='AbandonedHouseGroupGS100']/entity[@name='animalSpider02']" />
+<remove xpath="/entitygroups/entitygroup[@name='AbandonedHouseGroupGS100']/entity[@name='animalSpider03']" />
+<remove xpath="/entitygroups/entitygroup[@name='AbandonedHouseGroupGS200']/entity[@name='animalSpider02']" />
+<remove xpath="/entitygroups/entitygroup[@name='AbandonedHouseGroupGS200']/entity[@name='animalSpider03']" />
+<remove xpath="/entitygroups/entitygroup[@name='AbandonedHouseGroupGS400']/entity[@name='animalSpider02']" />
+<remove xpath="/entitygroups/entitygroup[@name='AbandonedHouseGroupGS400']/entity[@name='animalSpider03']" />
+-->
+    </happybang>
