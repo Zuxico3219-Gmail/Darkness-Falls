@@ -5,9 +5,11 @@
 
 ## 사용 모드(Mod list)
 
-##### 거미삭제 모드(HappySpider)
+#### 거미삭제 모드(HappySpider)
+ * [Download]
  * 덕재가 거미 때문에 힘들어했습니다.
  * DeokJae being happy without spider
-##### 시작 직업 모드(HappyJobDF)
+#### 시작 직업 모드(HappyJobDF)
+ * [Download]
  * 다크니스폴 시작 아이템에 직업 책 1장 -> 2장으로 변경
  * DF startpack gives 2 job paper from 1 job papaer
