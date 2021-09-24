@@ -3,8 +3,8 @@
 
 ## 사용 모드(Mod list)
 
-### 거미삭제 모드(HappySpider)
+##### 거미삭제 모드(HappySpider)
  * 덕재가 거미 때문에 힘들어했습니다.
  * DeokJae being happy without spider
-### ㅁㅁ
+##### ㅁㅁ
  * ㅁㅁ
