@@ -13,3 +13,7 @@
  * [Download](https://github.com/Zuxico3219-Gmail/Darkness-Falls-HappyBang/releases/download/HappyJobDF/9-HappyJobDF.zip)
  * 직업 책 2장으로 게임을 시작합니다.
  * Start with 2 job papaer (from 1 job papaer)
+#### 다크니스폴 30K스택(HappyStack for DF)
+ * [Download]
+ * 다크니스폴 아이템을 30,000개까지 겹칠 수 있습니다. [PhD Better 30K Stacks (A19-A19.6 A18)](https://www.nexusmods.com/7daystodie/mods/575)와 함께 사용했습니다.
+ * Darkness Falls items can stack 30K. use with [PhD Better 30K Stacks (A19-A19.6 A18)](https://www.nexusmods.com/7daystodie/mods/575)
