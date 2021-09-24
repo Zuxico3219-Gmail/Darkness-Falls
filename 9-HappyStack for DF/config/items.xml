@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <HappyBang>
+
+	<!-- Darkness Falls v3.6 -->
+	<set xpath="/items/item[@name='medicalBloodDrawKit']/property[@name='Stacknumber']/@value">30000</set>
+	<set xpath="/items/item[@name='drinkCanBoiledWater']/property[@name='Stacknumber']/@value">30000</set>
+	<set xpath="/items/item[@name='DFwaterBarrelFullItem']/property[@name='Stacknumber']/@value">30000</set>
+	<set xpath="/items/item[@name='DFwaterBarrelEmptyItem']/property[@name='Stacknumber']/@value">30000</set>
+	<set xpath="/items/item[@name='DFclayBucketEmpty']/property[@name='Stacknumber']/@value">30000</set>
+	<set xpath="/items/item[@name='DFclayBucketRiverWater']/property[@name='Stacknumber']/@value">30000</set>	
+    
+    </HappyBang>
