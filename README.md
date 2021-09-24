@@ -6,7 +6,7 @@
 ## 사용 모드(Mod list)
 
 #### 거미삭제 모드(HappySpider)
- * [Download]
+ * [Download](https://github.com/Zuxico3219-Gmail/Darkness-Falls-HappyBang/releases/download/HappySpider/9-HappySpider.zip)
  * 덕재가 거미 때문에 힘들어했습니다.
  * DeokJae being happy without spider
 #### 시작 직업 모드(HappyJobDF)
